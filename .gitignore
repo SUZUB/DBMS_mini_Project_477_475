@@ -29,6 +29,12 @@ yarn-error.log*
 # vercel
 .vercel
 
+# unwanted media and documents
+*.jpg
+*.jpeg
+*.png
+*.pdf
+
 # typescript
 *.tsbuildinfo
 next-env.d.ts
